@@ -1,0 +1,4 @@
+<meta>
+    <info author="SeuNome" version="1.0" name="Anuncio VIP Loja"/>
+    <script src="server.lua" type="server"/>
+</meta>
